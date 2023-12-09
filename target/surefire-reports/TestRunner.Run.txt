@@ -1,0 +1,286 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.Run
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 5.534 s <<< FAILURE! -- in TestRunner.Run
+Customer.Add a new Customer -- Time elapsed: 2.360 s <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (2 failures)
+	org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+	java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:150)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	Suppressed: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:140)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:68)
+		at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+		at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+		at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:241)
+		at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:168)
+		at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:61)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:57)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:49)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:45)
+		at StepDefinition.StepDefinition.setup(StepDefinition.java:38)
+	Suppressed: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+		at StepDefinition.StepDefinition.tearDown(StepDefinition.java:52)
+
+Customer.Search Customer by Email -- Time elapsed: 0.522 s <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (2 failures)
+	org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+	java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:150)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	Suppressed: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:140)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:68)
+		at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+		at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+		at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:241)
+		at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:168)
+		at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:61)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:57)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:49)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:45)
+		at StepDefinition.StepDefinition.setup(StepDefinition.java:38)
+	Suppressed: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+		at StepDefinition.StepDefinition.tearDown(StepDefinition.java:52)
+
+Customer.Search Customer by Name -- Time elapsed: 0.612 s <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (2 failures)
+	org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+	java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:150)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	Suppressed: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:140)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:68)
+		at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+		at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+		at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:241)
+		at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:168)
+		at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:61)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:57)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:49)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:45)
+		at StepDefinition.StepDefinition.setup(StepDefinition.java:38)
+	Suppressed: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+		at StepDefinition.StepDefinition.tearDown(StepDefinition.java:52)
+
+Login.Successfull Login with valid credentials -- Time elapsed: 0.605 s <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (2 failures)
+	org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+	java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:150)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	Suppressed: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:140)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:68)
+		at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+		at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+		at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:241)
+		at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:168)
+		at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:61)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:57)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:49)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:45)
+		at StepDefinition.StepDefinition.setup(StepDefinition.java:38)
+	Suppressed: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+		at StepDefinition.StepDefinition.tearDown(StepDefinition.java:52)
+
+Login.Successfull Login with different credentials DDT #1 -- Time elapsed: 0.570 s <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (2 failures)
+	org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+	java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:150)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	Suppressed: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:140)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:68)
+		at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+		at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+		at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:241)
+		at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:168)
+		at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:61)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:57)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:49)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:45)
+		at StepDefinition.StepDefinition.setup(StepDefinition.java:38)
+	Suppressed: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+		at StepDefinition.StepDefinition.tearDown(StepDefinition.java:52)
+
+Login.Successfull Login with different credentials DDT #2 -- Time elapsed: 0.503 s <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (2 failures)
+	org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+	java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:150)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	Suppressed: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from msedge location C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.) 
+Host info: host: 'DESKTOP-QBSHGH8', ip: '192.168.1.5'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:140)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96)
+		at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:68)
+		at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+		at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+		at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+		at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:241)
+		at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:168)
+		at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:61)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:57)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:49)
+		at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:45)
+		at StepDefinition.StepDefinition.setup(StepDefinition.java:38)
+	Suppressed: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+		at StepDefinition.StepDefinition.tearDown(StepDefinition.java:52)
+

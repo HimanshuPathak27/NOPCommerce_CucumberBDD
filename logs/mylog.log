@@ -1,0 +1,465 @@
+[INFO ] 2023-12-08 15:42:15.428 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:42:15.490 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:42:19.283 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:42:19.571 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:42:21.812 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:42:21.837 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:42:23.102 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:42:25.111 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:42:26.125 [main] StepDefinition - Add New button is clicked successfully
+[WARN ] 2023-12-08 15:42:26.151 [main] StepDefinition - Test Passed | Add New Customer page title is matched
+[INFO ] 2023-12-08 15:42:26.321 [main] StepDefinition - Email is entered successfully
+[INFO ] 2023-12-08 15:42:27.025 [main] StepDefinition - Password is entered successfully
+[INFO ] 2023-12-08 15:42:27.149 [main] StepDefinition - First Name is entered successfully
+[INFO ] 2023-12-08 15:42:27.290 [main] StepDefinition - Last Name is entered successfully
+[INFO ] 2023-12-08 15:42:27.356 [main] StepDefinition - Gender is selected successfully
+[INFO ] 2023-12-08 15:42:27.481 [main] StepDefinition - Date of Birth is entered successfully
+[INFO ] 2023-12-08 15:42:27.613 [main] StepDefinition - Company Name is entered successfully
+[INFO ] 2023-12-08 15:42:27.670 [main] StepDefinition - Tax Exempt is selected successfully
+[INFO ] 2023-12-08 15:42:27.867 [main] StepDefinition - Admin Comment is entered successfully
+[INFO ] 2023-12-08 15:42:28.987 [main] StepDefinition - Save button is clicked successfully
+[WARN ] 2023-12-08 15:42:29.655 [main] StepDefinition - Test Passed | Confirmation message is matched
+[INFO ] 2023-12-08 15:42:30.004 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:42:32.188 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:42:32.197 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:42:35.353 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:42:35.630 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:42:38.472 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:42:40.537 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:42:40.616 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:42:41.512 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:42:42.195 [main] StepDefinition - Customer Email for search is entered successfully
+[INFO ] 2023-12-08 15:42:42.263 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 15:42:45.312 [main] StepDefinition - Test Passed | Desired Email found in Customer table
+[INFO ] 2023-12-08 15:42:45.940 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:42:47.791 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:42:47.796 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:42:51.546 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:42:51.805 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:42:54.933 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:42:56.238 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:42:56.346 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:42:57.228 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:42:57.880 [main] StepDefinition - Customer First Name for search is entered successfully
+[INFO ] 2023-12-08 15:42:58.018 [main] StepDefinition - Customer Last Name for search is entered successfully
+[INFO ] 2023-12-08 15:42:58.080 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 15:43:01.137 [main] StepDefinition - Test Passed | Desired Name found in Customer table
+[INFO ] 2023-12-08 15:43:01.454 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:43:02.920 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:43:02.926 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:43:06.221 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:43:06.487 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:43:14.820 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:43:16.765 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:43:20.234 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:43:20.296 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:43:20.525 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:43:23.502 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:43:23.511 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:43:27.426 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:43:27.667 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:43:31.032 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:43:32.231 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:43:35.644 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:43:35.699 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:43:36.206 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:43:38.963 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:43:38.972 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:43:47.828 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:43:48.116 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:43:49.057 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:43:49.087 [main] StepDefinition - Test Failed | Home Page title is not matched
+[INFO ] 2023-12-08 15:46:58.296 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:46:58.349 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:47:02.445 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:47:02.718 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:47:04.852 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:47:05.967 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:47:06.138 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:47:06.915 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:47:07.998 [main] StepDefinition - Add New button is clicked successfully
+[WARN ] 2023-12-08 15:47:08.035 [main] StepDefinition - Test Passed | Add New Customer page title is matched
+[INFO ] 2023-12-08 15:47:10.258 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:47:10.266 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:47:13.440 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:47:13.702 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:47:16.187 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:47:17.572 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:47:17.648 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:47:18.310 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:47:21.766 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:47:21.773 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:47:25.578 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:47:25.879 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:47:28.355 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:47:29.432 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:47:29.550 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:47:30.352 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:47:34.788 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:47:34.799 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:47:38.707 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:47:38.968 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:47:48.354 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:47:48.403 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:47:51.975 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:47:52.006 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:47:52.007 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:47:54.033 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:47:54.037 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:47:57.452 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:47:57.708 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:48:00.223 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:48:01.552 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:48:04.911 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:48:04.947 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:48:04.948 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:48:06.632 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:48:06.676 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:48:10.180 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:48:10.452 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:48:12.580 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:48:12.598 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:48:16.302 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:48:16.352 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:48:16.353 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:49:50.723 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:49:50.794 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:49:54.449 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:49:54.725 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:49:57.346 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:49:58.370 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:49:58.487 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:49:59.456 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:50:00.625 [main] StepDefinition - Add New button is clicked successfully
+[WARN ] 2023-12-08 15:50:00.661 [main] StepDefinition - Test Passed | Add New Customer page title is matched
+[INFO ] 2023-12-08 15:50:03.090 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:50:03.118 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:50:06.905 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:50:07.165 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:50:09.770 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:50:10.972 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:50:11.086 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:50:12.250 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:50:12.955 [main] StepDefinition - Customer Email for search is entered successfully
+[INFO ] 2023-12-08 15:50:13.032 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 15:50:16.089 [main] StepDefinition - Test Passed | Desired Email found in Customer table
+[INFO ] 2023-12-08 15:50:16.089 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:50:17.957 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:50:17.966 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:50:21.372 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:50:21.656 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:50:24.610 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:50:25.678 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:50:25.777 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:50:26.690 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:50:27.399 [main] StepDefinition - Customer First Name for search is entered successfully
+[INFO ] 2023-12-08 15:50:27.544 [main] StepDefinition - Customer Last Name for search is entered successfully
+[INFO ] 2023-12-08 15:50:27.607 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 15:50:30.651 [main] StepDefinition - Test Passed | Desired Name found in Customer table
+[INFO ] 2023-12-08 15:50:30.652 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:50:32.266 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:50:32.275 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:50:35.916 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:50:36.185 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:50:38.778 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:50:39.994 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:50:43.710 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:50:43.740 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:50:43.740 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:50:46.480 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:50:46.486 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:50:49.643 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:50:49.893 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:50:52.206 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:50:53.347 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:50:56.763 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:50:56.795 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:50:56.795 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:50:58.478 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:50:58.489 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:51:02.979 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:51:03.256 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:51:05.178 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:51:06.439 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:51:09.750 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:51:09.827 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:51:09.827 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:53:07.418 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:53:07.493 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:53:10.778 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:53:11.062 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:53:15.138 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:53:16.692 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:53:16.792 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:53:19.526 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:53:20.607 [main] StepDefinition - Add New button is clicked successfully
+[WARN ] 2023-12-08 15:53:20.630 [main] StepDefinition - Test Passed | Add New Customer page title is matched
+[INFO ] 2023-12-08 15:53:20.769 [main] StepDefinition - Email is entered successfully
+[INFO ] 2023-12-08 15:53:20.881 [main] StepDefinition - Password is entered successfully
+[INFO ] 2023-12-08 15:53:20.987 [main] StepDefinition - First Name is entered successfully
+[INFO ] 2023-12-08 15:53:21.104 [main] StepDefinition - Last Name is entered successfully
+[INFO ] 2023-12-08 15:53:21.166 [main] StepDefinition - Gender is selected successfully
+[INFO ] 2023-12-08 15:53:21.272 [main] StepDefinition - Date of Birth is entered successfully
+[INFO ] 2023-12-08 15:53:21.381 [main] StepDefinition - Company Name is entered successfully
+[INFO ] 2023-12-08 15:53:21.436 [main] StepDefinition - Tax Exempt is selected successfully
+[INFO ] 2023-12-08 15:53:21.578 [main] StepDefinition - Admin Comment is entered successfully
+[INFO ] 2023-12-08 15:53:22.507 [main] StepDefinition - Save button is clicked successfully
+[WARN ] 2023-12-08 15:53:23.119 [main] StepDefinition - Test Passed | Confirmation message is matched
+[INFO ] 2023-12-08 15:53:23.120 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:53:24.867 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:53:24.874 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:53:28.624 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:53:28.906 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:53:31.195 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:53:32.597 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:53:32.758 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:53:33.506 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:53:34.247 [main] StepDefinition - Customer Email for search is entered successfully
+[INFO ] 2023-12-08 15:53:34.332 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 15:53:37.399 [main] StepDefinition - Test Passed | Desired Email found in Customer table
+[INFO ] 2023-12-08 15:53:37.399 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:53:38.965 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:53:39.119 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:53:47.408 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:53:47.671 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:53:51.480 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:53:51.506 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:53:51.570 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:53:54.891 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:53:54.898 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:53:59.493 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:53:59.844 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:54:03.636 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:54:04.738 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:54:08.221 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:54:08.273 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:54:08.278 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:54:11.084 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:54:11.087 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:54:16.637 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:54:16.887 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:54:19.686 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:54:20.458 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:54:24.194 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:54:24.239 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:54:24.240 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:54:26.376 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:54:26.384 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:54:30.199 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:54:30.532 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:54:32.324 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:54:33.720 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:54:37.466 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:54:37.496 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:54:37.497 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:56:41.113 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:56:41.183 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:56:44.234 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:56:44.520 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:56:46.692 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:56:48.325 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:56:48.504 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:56:49.497 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:56:50.612 [main] StepDefinition - Add New button is clicked successfully
+[WARN ] 2023-12-08 15:56:50.628 [main] StepDefinition - Test Passed | Add New Customer page title is matched
+[INFO ] 2023-12-08 15:56:51.370 [main] StepDefinition - Email is entered successfully
+[INFO ] 2023-12-08 15:56:51.496 [main] StepDefinition - Password is entered successfully
+[INFO ] 2023-12-08 15:56:51.617 [main] StepDefinition - First Name is entered successfully
+[INFO ] 2023-12-08 15:56:51.764 [main] StepDefinition - Last Name is entered successfully
+[INFO ] 2023-12-08 15:56:51.828 [main] StepDefinition - Gender is selected successfully
+[INFO ] 2023-12-08 15:56:51.951 [main] StepDefinition - Date of Birth is entered successfully
+[INFO ] 2023-12-08 15:56:52.082 [main] StepDefinition - Company Name is entered successfully
+[INFO ] 2023-12-08 15:56:52.140 [main] StepDefinition - Tax Exempt is selected successfully
+[INFO ] 2023-12-08 15:56:52.323 [main] StepDefinition - Admin Comment is entered successfully
+[INFO ] 2023-12-08 15:56:53.413 [main] StepDefinition - Save button is clicked successfully
+[WARN ] 2023-12-08 15:56:54.064 [main] StepDefinition - Test Passed | Confirmation message is matched
+[INFO ] 2023-12-08 15:56:54.065 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:56:55.944 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:56:55.972 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:56:59.900 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:57:00.270 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:57:02.887 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:57:02.907 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:57:04.396 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:57:05.166 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:57:05.879 [main] StepDefinition - Customer Email for search is entered successfully
+[INFO ] 2023-12-08 15:57:05.958 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 15:57:09.027 [main] StepDefinition - Test Passed | Desired Email found in Customer table
+[INFO ] 2023-12-08 15:57:09.028 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:57:10.917 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:57:10.923 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:57:13.896 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:57:14.155 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:57:17.739 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:57:18.891 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 15:57:18.974 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 15:57:20.277 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 15:57:21.007 [main] StepDefinition - Customer First Name for search is entered successfully
+[INFO ] 2023-12-08 15:57:21.148 [main] StepDefinition - Customer Last Name for search is entered successfully
+[INFO ] 2023-12-08 15:57:21.213 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 15:57:24.272 [main] StepDefinition - Test Passed | Desired Name found in Customer table
+[INFO ] 2023-12-08 15:57:24.273 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:57:26.705 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:57:26.725 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:57:30.167 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:57:30.452 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:57:33.319 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:57:33.349 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:57:36.788 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:57:36.797 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:57:36.798 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:57:40.438 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:57:40.455 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:57:50.046 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:57:50.293 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:57:52.750 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:57:54.179 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:57:57.895 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:57:57.955 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:57:57.955 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 15:58:00.955 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 15:58:00.958 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 15:58:04.262 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 15:58:04.593 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 15:58:09.755 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 15:58:10.842 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 15:58:14.327 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 15:58:14.383 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 15:58:14.384 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:26:10.049 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:26:10.125 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:26:11.636 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:26:12.005 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:26:14.285 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:26:14.296 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 16:26:15.810 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 16:26:17.576 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 16:26:18.659 [main] StepDefinition - Add New button is clicked successfully
+[WARN ] 2023-12-08 16:26:18.679 [main] StepDefinition - Test Passed | Add New Customer page title is matched
+[INFO ] 2023-12-08 16:26:18.851 [main] StepDefinition - Email is entered successfully
+[INFO ] 2023-12-08 16:26:19.571 [main] StepDefinition - Password is entered successfully
+[INFO ] 2023-12-08 16:26:19.697 [main] StepDefinition - First Name is entered successfully
+[INFO ] 2023-12-08 16:26:19.833 [main] StepDefinition - Last Name is entered successfully
+[INFO ] 2023-12-08 16:26:19.899 [main] StepDefinition - Gender is selected successfully
+[INFO ] 2023-12-08 16:26:20.023 [main] StepDefinition - Date of Birth is entered successfully
+[INFO ] 2023-12-08 16:26:20.168 [main] StepDefinition - Company Name is entered successfully
+[INFO ] 2023-12-08 16:26:20.225 [main] StepDefinition - Tax Exempt is selected successfully
+[INFO ] 2023-12-08 16:26:20.431 [main] StepDefinition - Admin Comment is entered successfully
+[INFO ] 2023-12-08 16:26:21.354 [main] StepDefinition - Save button is clicked successfully
+[WARN ] 2023-12-08 16:26:22.045 [main] StepDefinition - Test Passed | Confirmation message is matched
+[INFO ] 2023-12-08 16:26:22.046 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:26:23.950 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:26:23.954 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:26:27.735 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:26:28.017 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:26:30.195 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:26:30.253 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 16:26:30.330 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 16:26:34.719 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:26:34.729 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:26:38.719 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:26:38.999 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:26:41.532 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:26:41.562 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 16:26:41.630 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 16:26:44.241 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:26:44.245 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:26:47.867 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:26:48.165 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:26:50.629 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:26:50.642 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 16:26:54.046 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 16:26:54.096 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 16:26:54.098 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:26:55.707 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:26:55.713 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:27:00.074 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:27:00.352 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:27:03.148 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:27:03.204 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 16:27:06.601 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 16:27:06.650 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 16:27:06.651 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:27:08.552 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:27:08.565 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:27:13.180 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:27:13.467 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:27:15.799 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:27:15.809 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 16:27:19.876 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 16:27:19.924 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 16:27:19.926 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:39:59.134 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:39:59.189 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:40:02.260 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:40:02.546 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:40:04.274 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:40:05.532 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 16:40:05.617 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 16:40:06.415 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 16:40:07.466 [main] StepDefinition - Add New button is clicked successfully
+[WARN ] 2023-12-08 16:40:07.476 [main] StepDefinition - Test Passed | Add New Customer page title is matched
+[INFO ] 2023-12-08 16:40:08.210 [main] StepDefinition - Email is entered successfully
+[INFO ] 2023-12-08 16:40:08.325 [main] StepDefinition - Password is entered successfully
+[INFO ] 2023-12-08 16:40:08.438 [main] StepDefinition - First Name is entered successfully
+[INFO ] 2023-12-08 16:40:08.568 [main] StepDefinition - Last Name is entered successfully
+[INFO ] 2023-12-08 16:40:08.638 [main] StepDefinition - Gender is selected successfully
+[INFO ] 2023-12-08 16:40:08.767 [main] StepDefinition - Date of Birth is entered successfully
+[INFO ] 2023-12-08 16:40:08.908 [main] StepDefinition - Company Name is entered successfully
+[INFO ] 2023-12-08 16:40:08.966 [main] StepDefinition - Tax Exempt is selected successfully
+[INFO ] 2023-12-08 16:40:09.147 [main] StepDefinition - Admin Comment is entered successfully
+[INFO ] 2023-12-08 16:40:09.989 [main] StepDefinition - Save button is clicked successfully
+[WARN ] 2023-12-08 16:40:10.642 [main] StepDefinition - Test Passed | Confirmation message is matched
+[INFO ] 2023-12-08 16:40:10.644 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:40:12.459 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:40:12.466 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:40:15.739 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:40:16.015 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:40:18.465 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:40:19.705 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 16:40:19.786 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 16:40:20.586 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 16:40:21.253 [main] StepDefinition - Customer Email for search is entered successfully
+[INFO ] 2023-12-08 16:40:21.315 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 16:40:24.361 [main] StepDefinition - Test Passed | Desired Email found in Customer table
+[INFO ] 2023-12-08 16:40:24.362 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:40:26.854 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:40:26.860 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:40:30.004 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:40:30.263 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:40:32.935 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:40:34.054 [main] StepDefinition - Test Passed | Dashboard title is matched
+[INFO ] 2023-12-08 16:40:34.154 [main] StepDefinition - Customer Menu is selected successfully
+[INFO ] 2023-12-08 16:40:34.955 [main] StepDefinition - Customer Menu Item is selected successfully
+[INFO ] 2023-12-08 16:40:35.627 [main] StepDefinition - Customer First Name for search is entered successfully
+[INFO ] 2023-12-08 16:40:35.759 [main] StepDefinition - Customer Last Name for search is entered successfully
+[INFO ] 2023-12-08 16:40:35.821 [main] StepDefinition - Search button is clicked successfully
+[WARN ] 2023-12-08 16:40:38.860 [main] StepDefinition - Test Passed | Desired Name found in Customer table
+[INFO ] 2023-12-08 16:40:38.861 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:40:40.792 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:40:40.797 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:40:44.613 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:40:44.898 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:40:47.869 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:40:49.042 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 16:40:52.515 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 16:40:52.564 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 16:40:52.565 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:40:54.554 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:40:54.557 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:40:57.520 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:40:57.795 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:40:59.766 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:40:59.787 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 16:41:03.281 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 16:41:03.307 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 16:41:03.308 [main] StepDefinition - Chrome browser is closed Successfully
+[INFO ] 2023-12-08 16:41:05.045 [main] StepDefinition - Setup is Done
+[INFO ] 2023-12-08 16:41:05.108 [main] StepDefinition - Chrome browser is launched and maximized Successfully using Setup
+[INFO ] 2023-12-08 16:41:08.389 [main] StepDefinition - URL Opened Successfully
+[INFO ] 2023-12-08 16:41:08.640 [main] StepDefinition - Email ID & Password entered Successfully
+[INFO ] 2023-12-08 16:41:10.929 [main] StepDefinition - Login Button is clicked Successfully
+[WARN ] 2023-12-08 16:41:10.963 [main] StepDefinition - Test Passed | Home Page title is matched
+[INFO ] 2023-12-08 16:41:15.069 [main] StepDefinition - Logout Button is clicked Successfully
+[WARN ] 2023-12-08 16:41:15.139 [main] StepDefinition - Test Passed | Login Page title is matched
+[INFO ] 2023-12-08 16:41:15.139 [main] StepDefinition - Chrome browser is closed Successfully
