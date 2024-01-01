@@ -2,7 +2,7 @@ Feature: Login
 
   @Sanity @Regression
   Scenario: Successfull Login with valid credentials
-    Given User launch Chrome browser
+    Given User has already launch a browser
     When User opens URL "https://admin-demo.nopcommerce.com/login"
     And User enters Email as "admin@yourstore.com" and Password as "admin"
     And User clicks on Login button
@@ -13,7 +13,7 @@ Feature: Login
 		
 	@Regression	
 	Scenario Outline: Successfull Login with different credentials DDT
-	  Given User launch Chrome browser
+	  Given User has already launch a browser
     When User opens URL "https://admin-demo.nopcommerce.com/login"
     And User enters Email as "<email>" and Password as "<password>"
     And User clicks on Login button

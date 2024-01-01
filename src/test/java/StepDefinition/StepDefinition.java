@@ -57,14 +57,14 @@ public class StepDefinition extends BaseClass{
 
 	//////////////////// LOGIN FEATURE ////////////////////
 
-	@Given("User launch Chrome browser")
-	public void user_launch_chrome_browser() {
+	@Given("User has already launch a browser")
+	public void User_has_already_launch_a_browser() {
 		
 		loginpage = new LoginPage(driver);
 		newCust = new AddNewCustomerPage(driver);
 		searchCust = new SearchCustomerPage(driver);
 
-		log.info("Chrome browser is launched and maximized Successfully using Setup");
+		log.info("Browser is launched and maximized Successfully using Setup");
 	}
 
 	@When("User opens URL {string}")
@@ -121,7 +121,7 @@ public class StepDefinition extends BaseClass{
 
 	@Then("Close browser")
 	public void close_browser() {
-		log.info("Chrome browser is closed Successfully");
+		log.info("Browser is closed Successfully");
 	}
 
 	//////////////////// ADD NEW CUSTOMER FEATURE ////////////////////

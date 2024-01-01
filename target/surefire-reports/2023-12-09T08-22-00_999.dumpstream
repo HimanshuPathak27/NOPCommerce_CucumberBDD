@@ -1,4 +1,4 @@
-# Created at 2023-12-07T09:17:16.685
+# Created at 2023-12-09T08:22:01.304
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Automation2k24\NOPCommerce_BDDFramework\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
